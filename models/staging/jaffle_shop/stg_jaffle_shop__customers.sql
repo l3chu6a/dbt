@@ -1,5 +1,6 @@
 select
-    id as customer_id, 
-    first_name, 
+    id as customer_id,
+    first_name,
     last_name
-from RAW.JAFFLE_SHOP.CUSTOMERS
+
+from raw.jaffle_shop.customers
